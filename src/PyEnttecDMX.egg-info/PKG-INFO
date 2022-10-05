@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: PyEnttecDMX
+Version: 0.1
+Summary: Python control of the Enttec DMX USB Pro
+Author: Simon Wick
+Author-email: technics@seetal-chile.ch
+License: GPL3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # PyEnttecDMX
 Control the Enttec DMX USB Pro with Python3
 
